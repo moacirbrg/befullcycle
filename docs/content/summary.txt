@@ -1,0 +1,57 @@
+Introduction
+-----------------------------
+01 - Becoming a Full-Cycle Developer
+02 - How the Computer Works
+
+Computer Programming
+-----------------------------
+03 - Introduction to Programming
+04 - Python: Getting Started
+05 - Git: Keep Your Code Safe
+06 - Data Structures
+07 - Algorithms
+
+DevOps
+-----------------------------
+08 - Virtualization: Standardizing the Environment
+09 - Linux: Lose the Fear Easily
+10 - Shell Scripting
+11 - Network: how it works
+12 - Cloud computing with AWS
+13 - Continuous Delivery
+
+Database
+-----------------------------
+14 - Relational Database with PostgreSQL
+15 - Key-Value Database with Redis
+
+Back-end: Web Development
+-----------------------------
+16 - Web programming with Python
+17 - Cybersecurity: web exploitation
+
+Front-end
+-----------------------------
+18 - User Interface (UI)
+19 - User Experience (UX)
+20 - HTML: Understand It Deeply
+21 - CSS: Developing Complex Interfaces
+22 - JavaScript: Ultra Fast Clients
+
+Mobile Development
+-----------------------------
+23 - Swift: Create Clients for Apple devices
+24 - Kotlin: Create clients for Android
+
+Back-end: Data Intensive Aplications
+-----------------------------
+25 - C#: Develop Complex Softwares
+26 - NoSQL Database with Elasticsearch
+27 - Computational Mathematics
+28 - Artificial Intelligence
+
+Digital Marketing
+-----------------------------
+29 - SEO: Get Visitors For Free
+30 - Neuromarketing
+31 - Digital Marketing Strategies
