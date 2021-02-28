@@ -1,0 +1,3 @@
+### First test
+GET {{host}}/api/v1/sample/hello-world
+Accept: application/json

@@ -1,1 +1,16 @@
+# OS
 .DS_Store
+
+# IDE
+.idea
+.vscode/
+.vs/
+
+# Build
+bin/
+obj/
+
+# .NET
+*.csproj.user
+*.pubxml.user
+*.DotSettings.user
